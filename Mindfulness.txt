@@ -1,0 +1,4 @@
+I have Developed this site for creating awareness about Mental health.
+Main motive to develop this site was to bring all information about the awareness together which will help people to get all the info at one place.
+The Site gives Information,Symptoms and Cure about 5 most common mental disorders.
+The site has been designed by using various launguages such as HTML which develops the core of the site,CSS which styles the body and JavaScript which handles the logical things.
